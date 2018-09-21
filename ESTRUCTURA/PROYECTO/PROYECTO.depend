@@ -1,0 +1,27 @@
+# depslib dependency file v1.0
+1537302505 source:c:\estructura de datos\proyecto\main.cpp
+	<iostream>
+	<fstream>
+	<string.h>
+	<stdlib.h>
+	"ELEMENTOS.h"
+
+1537304392 c:\estructura de datos\proyecto\elementos.h
+	<fstream>
+	<string.h>
+	<iostream>
+	<stdlib.h>
+
+1537302505 source:c:\users\pablo\desktop\proyecto\main.cpp
+	<iostream>
+	<fstream>
+	<string.h>
+	<stdlib.h>
+	"ELEMENTOS.h"
+
+1537304793 c:\users\pablo\desktop\proyecto\elementos.h
+	<fstream>
+	<string.h>
+	<iostream>
+	<stdlib.h>
+

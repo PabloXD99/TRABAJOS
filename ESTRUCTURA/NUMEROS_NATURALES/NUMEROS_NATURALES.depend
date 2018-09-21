@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1537558772 source:c:\estructura\numeros_naturales\main.cpp
+	<iostream>
+	<stdlib.h>
+	<cmath>
+	<string>
+	<fstream>
+	"operaciones.h"
+
+1537558761 c:\estructura\numeros_naturales\include\operaciones.h
+
+1537558782 source:c:\estructura\numeros_naturales\src\operaciones.cpp
+	"operaciones.h"
+	<iostream>
+	<stdlib.h>
+	<cmath>
+	<string>
+	<fstream>
+
