@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1539347086 source:c:\estructura de datos\ejemplodecola\main.cpp
+	<iostream>
+	<cstdlib>
+
+1539347086 source:c:\users\hp\desktop\ejemplodecola\main.cpp
+	<iostream>
+	<cstdlib>
+
